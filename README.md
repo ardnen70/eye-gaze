@@ -1,5 +1,5 @@
 # eye-gaze
-eye gaze detection using deep learning (Conv nets + FC)
+eye gaze estimation in mobile devices using deep learning (Conv nets + FC)
 Eye gaze estimation using deep learning. 
 
 gsharmaFinalProject.py contains the code for building he tensorflow model. Train and validation datasets
